@@ -34,7 +34,7 @@
   2) Login Page: If the user have alredy account then login from this page otherwise go to the SignUP page from this page.If login   succeful go to the search hotels page.
   3) Search Hotels Page: In this page the customer search the hotels that they want according same criteria from the API.In this     page after the searching the hotels customer see the hotel listes and then after click on particular hotel customer go to the      hotel home page. in this page Hotels Recommendation option available on clicking this go to the recommendation page.
   4) Hotel Details Page: In this hotel home page customer see the datail of the hotel and from here go to the Booking page           otherwise the back to the search hotel page.
-  5) Booking Page: In this Page the form will display after filling the form user can payment or not if user done payment then       the booking completed otherwise status of the booking is draft.If the booking draft from this page user come back to the search    page.
+  5) Hotel Booking Page: In this Page the form will display after filling the form user can payment or not if user done payment      then the booking completed otherwise status of the booking is draft.If the booking draft from this page user come back to the      search page.
   6) Recommendation Page: The Recommendation Hotels option show in the Search Hotels page and click on this the recommended hotels   will seen and proceed further.
 
 # MarkDown(md)Files :-
