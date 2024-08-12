@@ -20,7 +20,7 @@
 
 # Backend 
    (I have also upload the package.json file from which modules have used of the NodeJS and for the running the server of   the       node use the Main.js file because all the APIs inegrated on this file for the runnung server one time only).
-# In the backend part of the system there are total 6 APIs such as
+   In the backend part of the system there are total 6 APIs such as.
    1) Registration API for Customer: This API successfully register the customer in the system if the customer fill all the           necessary fields correctly otherwise give the error message because Validation for the Email,Password,Phone Number and Customer    Name.API in file RegistrationCus.js.
    2) Login API: This API for the customers whose already register in the system.By taking emailid and password from customer if      match then login otherwise not.API in the file Login1.js.
    3) Search Hotels API: This API give the customer opportunity to search the hotels that they want.Customer Search the Hotel by      using Hotel name,area,city,state,rating and the price and see the result if result match.API in the file Search.js.
